@@ -1,1 +1,1 @@
-# searchImgsApp
+# FlickrSearchApp
