@@ -1,0 +1,46 @@
+.inpBtn input{
+    width:70%;
+    height: 30px;
+}
+.inpBtn button{
+    width:10%;
+    height: 37px;
+    margin-left: 30px;
+}
+.inpBtn{
+    text-align: center;
+}
+.imgs img{
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    margin-left: 10px;
+}
+
+.imgs{
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.imgBaskets{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.imgBaskets button{
+    border:none;
+    width:370px;
+    padding: 10px;
+    font-size: 16px;
+    color:white;
+    background-color: rgb(97, 126, 189);
+}
+.content{
+    width: 350px;
+    background-color: rgb(226, 215, 215);
+    height: 100%;
+    padding: 10px;
+
+}
